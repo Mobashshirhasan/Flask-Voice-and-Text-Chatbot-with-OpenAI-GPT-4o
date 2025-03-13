@@ -30,3 +30,5 @@ A working microphone for voice input
 #Installation
 
 Clone the Repository:
+  git clone <your-repo-url>
+cd <repo-name>
