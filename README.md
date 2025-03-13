@@ -56,7 +56,7 @@ Make sure you have the following installed:
 ├── templates/
 │   ├── index.html  # Frontend template
 ├── static/
-│   ├── styles.css  # Optional CSS file
+│   ├── style.css  # Optional CSS file
 ├── requirements.txt # List of dependencies
 └── README.md        # Project documentation
 ```
