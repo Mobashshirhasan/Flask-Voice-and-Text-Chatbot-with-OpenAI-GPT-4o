@@ -8,7 +8,7 @@ app = Flask(__name__)
 openai.api_key = "your-api-key"
 client = openai.OpenAI()
 
-# Speech Recognizer
+ # Speech Recognizer
 recognizer = sr.Recognizer()
 
 def chat_with_gpt(user_input):
