@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # OpenAI API Key (Replace with your actual key)
 openai.api_key = "your-api-key"
-client = openai.OpenAI()
+client = openai.OpenAI( )
 
 # Speech Recognizer
 recognizer = sr.Recognizer()
